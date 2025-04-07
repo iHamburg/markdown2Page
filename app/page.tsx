@@ -64,7 +64,7 @@ export default function Home() {
     <main className="min-h-screen p-4 md:p-8">
       <div className="max-w-7xl mx-auto">
         <div className="flex justify-between items-center mb-6">
-          <h1 className="text-2xl font-bold">Markdown to HTML Converter</h1>
+          <h1 className="text-2xl font-bold">Markdown to HTML 转换器</h1>
           <div className="flex gap-2">
             <Button
               variant="outline"
