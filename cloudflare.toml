@@ -1,5 +1,5 @@
 [build]
-command = "npm run build"
+command = "pnpm run build && pnpm run deploy"
 publish = ".vercel/output/static"
 
 [build.environment]
